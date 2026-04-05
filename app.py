@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # app.py - ViralForge-AI
 
 from dotenv import load_dotenv
@@ -29,7 +29,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
+
 import os
 from dotenv import load_dotenv
 import openai
@@ -54,4 +54,4 @@ if __name__ == "__main__":
     script = generate_viral_script(topic)
     print("\n--- Viral Script ---\n")
     print(script)
->>>>>>> 373e6b6f067d19b53ab40aaf14a2be4404186040
+
