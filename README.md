@@ -24,4 +24,4 @@ Generate short viral video scripts using AI — perfect for TikTok, Instagram Re
 1. Clone the repository:
    ```bash
    git clone https://github.com/mindmastery101/viralforge-ai.git
- 373e6b6f067d19b53ab40aaf14a2be4404186040
+ 
