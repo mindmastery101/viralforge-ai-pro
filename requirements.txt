@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> fd7770b4c922f2cc8dc850f349a4c6b94d04e0a5
-python-dotenv
+
+
+
 pip install -r requirements.txt
 
-openai==0.29.0
-steamlit
-python-dotenv==1.0.0
+streamlit
+pandas
+numpy
 

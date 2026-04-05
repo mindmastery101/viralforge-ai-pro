@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 
 import streamlit as st
 from openai import OpenAI
-=======
+
 
 # app.py - ViralForge-AI
 
@@ -35,15 +35,15 @@ def main():
 if __name__ == "__main__":
     main()
 
->>>>>>> fd7770b4c922f2cc8dc850f349a4c6b94d04e0a5
+
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
-<<<<<<< HEAD
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-=======
+
 def generate_viral_script(topic):
     response = openai.ChatCompletion.create(
         model="gpt-4o",
@@ -62,4 +62,4 @@ if __name__ == "__main__":
     print("\n--- Viral Script ---\n")
     print(script)
 
->>>>>>> fd7770b4c922f2cc8dc850f349a4c6b94d04e0a5
+
